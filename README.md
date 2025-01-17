@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Orion! 👋
 
-<!--
-**orionvalee/orionvalee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌌 Vision
+Building AI to understand and predict worlds—real and imagined. Exploring the intersection of algorithms, intelligence, and creativity.
 
-Here are some ideas to get you started:
+### 🛠️ Currently Learning
+- Python 🐍
+- Algorithms and Data Structures 📊
+- Basics of Artificial Intelligence 🤖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Goals
+- Master AI and mathematics foundations
+- Contribute to open-source projects
+- Build systems that merge imagination with innovation
+
+### 🔗 Find Me
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+- [X (Twitter)](https://twitter.com/your-profile)
